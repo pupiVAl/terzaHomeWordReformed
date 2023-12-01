@@ -1,0 +1,14 @@
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\bin\Debug\net8.0\pag376ex58.exe
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\bin\Debug\net8.0\pag376ex58.deps.json
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\bin\Debug\net8.0\pag376ex58.runtimeconfig.json
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\bin\Debug\net8.0\pag376ex58.dll
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\bin\Debug\net8.0\pag376ex58.pdb
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\obj\Debug\net8.0\pag376ex58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\obj\Debug\net8.0\pag376ex58.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\obj\Debug\net8.0\pag376ex58.AssemblyInfo.cs
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\obj\Debug\net8.0\pag376ex58.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\obj\Debug\net8.0\pag376ex58.dll
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\obj\Debug\net8.0\refint\pag376ex58.dll
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\obj\Debug\net8.0\pag376ex58.pdb
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\obj\Debug\net8.0\pag376ex58.genruntimeconfig.cache
+C:\Users\thoma\source\repos\pag376ex58\pag376ex58\obj\Debug\net8.0\ref\pag376ex58.dll
